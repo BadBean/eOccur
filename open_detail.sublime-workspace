@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"occur",
+				"occur_setup_category"
+			],
+			[
+				"setup_location",
+				"setup_location_name"
+			],
+			[
+				"re",
+				"reporter_category"
+			],
+			[
+				"occur_pa",
+				"occur_patient_injury"
+			],
+			[
+				"formatted",
+				"formatted_month_name"
+			],
+			[
+				"user",
+				"user_full_name"
+			],
+			[
+				"patient",
+				"patient_unit"
+			],
+			[
+				"sele",
+				"selected_loc"
+			],
+			[
+				"sql_report",
+				"sql_report_count"
+			],
+			[
+				"sever",
+				"severity"
+			],
+			[
+				"man",
+				"manager_followup_notes"
+			],
+			[
+				"manager",
+				"manager_followup_plan"
+			],
+			[
+				"manag",
+				"manager_action"
+			],
+			[
+				"manager_foll",
+				"manager_followup_name"
+			],
+			[
+				"mana",
+				"manager_followup_name"
+			],
+			[
+				"manage",
+				"manager_followup_name"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"datatable",
+				"datatable_standard"
+			],
+			[
+				"sql_re",
+				"sql_report_daily"
+			],
+			[
+				"selecte",
+				"selected_location"
+			],
+			[
+				"repo",
+				"reporter_category"
+			],
+			[
+				"select",
+				"selected_month"
+			],
+			[
+				"for",
+				"format_selected_month_name"
+			],
+			[
+				"occur_patie",
+				"occur_patient_injury"
+			],
+			[
+				"sev",
+				"severity_sentinel"
+			],
+			[
+				"forma",
+				"formatted_month_name"
+			],
+			[
+				"occur_f",
+				"occur_flags"
+			],
+			[
+				"rm",
+				"rm_contributing_factors"
+			],
+			[
+				"rm_re",
+				"rm_review_date"
+			],
+			[
+				"occur_sta",
+				"occur_status"
+			],
+			[
+				"rm_foll",
+				"rm_followup_date"
+			],
+			[
+				"rm_followup",
+				"rm_followup_plan"
+			],
+			[
+				"rm_fo",
+				"rm_followup_notes"
+			],
+			[
+				"manager_fo",
+				"manager_followup_job"
+			],
+			[
+				"patient_t",
+				"patient_transfer_notes"
+			],
+			[
+				"occur_not",
+				"occur_notification_notes"
+			],
+			[
+				"rep",
+				"reporter_email"
+			],
+			[
+				"reporter",
+				"reporter_phone"
+			],
+			[
+				"rs",
+				"rs_notification_notes"
+			],
+			[
+				"sec",
+				"seclusion_minutes"
+			],
+			[
+				"inj",
+				"injury_other_notes"
+			],
+			[
+				"num",
+				"numrows_30day"
+			],
+			[
+				"nu",
+				"numrows_mtd_severity"
+			],
+			[
+				"result_mtd",
+				"result_mtd_severity"
+			],
+			[
+				"sql_mtd",
+				"sql_mtd_severity"
+			],
+			[
+				"patie",
+				"patient_unit"
+			],
+			[
+				"occur_",
+				"occur_location"
+			],
+			[
+				"result_pr",
+				"result_program_table"
+			],
+			[
+				"occur_s",
+				"occur_subcategory"
+			],
+			[
+				"setup_loc",
+				"setup_location_name"
+			],
+			[
+				"row_f",
+				"row_factor"
+			],
+			[
+				"row_fa",
+				"row_factor"
+			],
+			[
+				"result_f",
+				"result_factor"
+			],
+			[
+				"result_fa",
+				"result_factor"
+			],
+			[
+				"notify_f",
+				"notify_factor"
+			],
+			[
+				"row_c",
+				"row_category"
+			],
+			[
+				"notify",
+				"notify_severity"
+			],
+			[
+				"not",
+				"notify_type"
+			],
+			[
+				"setup",
+				"setup_type"
+			],
+			[
+				"no",
+				"notify_category"
+			],
+			[
+				"noti",
+				"notify_category"
+			],
+			[
+				"notify_s",
+				"notify_severity"
+			],
+			[
+				"n",
+				"notify_cateogry"
+			],
+			[
+				"notif",
+				"notify_location"
+			],
+			[
+				"form-contro",
+				"form-control-sm"
+			],
+			[
+				"medi",
+				"medical_transfer_notes"
+			],
+			[
+				"me",
+				"medical_transfer_notes"
+			],
+			[
+				"pate",
+				"patient_dob"
+			],
+			[
+				"mgr_stat",
+				"manager_status"
+			],
+			[
+				"full",
+				"full_name_title"
+			],
+			[
+				"ma",
+				"manager_followup_name"
+			],
+			[
+				"notify_",
+				"notify_severity"
+			],
+			[
+				"occur_setup_f",
+				"occur_setup_factors"
+			],
+			[
+				"SET",
+				"setup_flag"
+			],
+			[
+				"SETUP",
+				"setup_flag"
+			],
+			[
+				"setup_",
+				"setup_severity"
+			],
+			[
+				"occur_setup",
+				"occur_setup_severity"
+			],
+			[
+				"acce",
+				"access_levels"
+			],
+			[
+				"user_full",
+				"user_full_name_title"
+			],
+			[
+				"_SE",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"manager_follow",
+				"manager_followup_job"
+			],
+			[
+				"maa",
+				"management_user"
+			],
+			[
+				"user_s",
+				"user_supervisor"
+			],
+			[
+				"acc",
+				"user_access_A"
+			],
+			[
+				"US",
+				"user_access_A"
+			],
+			[
+				"occ",
+				"occur_status"
+			],
+			[
+				"chart_",
+				"chart_program"
+			],
+			[
+				"SCR",
+				"script"
+			],
+			[
+				"user_",
+				"user_email"
+			],
+			[
+				"user_a",
+				"user_access_A"
+			],
+			[
+				"restr",
+				"restraint_minutes"
+			],
+			[
+				"rest",
+				"restraint_minutes"
+			],
+			[
+				"secl",
+				"seclusion_minutes"
+			],
+			[
+				"seclusio",
+				"seclusion_minutes"
+			],
+			[
+				"patient_i",
+				"patient_injury_description"
+			],
+			[
+				"rm_",
+				"rm_contributing_factors"
+			],
+			[
+				"occur_stat",
+				"occur_status_name"
+			],
+			[
+				"rs_notifi",
+				"rs_notification"
+			],
+			[
+				"md",
+				"md_temp"
+			],
+			[
+				"occur_patient",
+				"occur_patient_restraint"
+			],
+			[
+				"patient_in",
+				"occur_patient_injury"
+			],
+			[
+				"S",
+				"Submitted"
+			],
+			[
+				"md_",
+				"md_attending"
+			],
+			[
+				"user_access",
+				"user_access_B"
+			],
+			[
+				"occur_patient_",
+				"occur_patient_restraint"
+			],
+			[
+				"occur_pati",
+				"occur_patient_restraint"
+			],
+			[
+				"patient_re",
+				"patient_restraint_notes"
+			],
+			[
+				"table",
+				"table-responsive"
+			],
+			[
+				"other",
+				"other_nonclinical"
+			],
+			[
+				"rm_fol",
+				"manager_followup_notes"
+			],
+			[
+				"rm_follou",
+				"manager_followup_plan"
+			],
+			[
+				"m",
+				"manager_followup_plan"
+			],
+			[
+				"maanger_",
+				"manager_followup_job"
+			],
+			[
+				"o",
+				"occur_area"
+			],
+			[
+				"employee",
+				"employee_injury_description"
+			],
+			[
+				"occu",
+				"occur_date"
+			],
+			[
+				"rm_r",
+				"rm_review_date"
+			],
+			[
+				"rm_f",
+				"rm_followup_plan"
+			],
+			[
+				"rm_s",
+				"rm_severity"
+			],
+			[
+				"manager_followup_n",
+				"manager_followup_notes"
+			],
+			[
+				"empl",
+				"employee_injury_description"
+			],
+			[
+				"e",
+				"employee_injury_description"
+			],
+			[
+				"occur_d",
+				"occur_description"
+			],
+			[
+				"pat",
+				"patient_MRN"
+			],
+			[
+				"pt_g",
+				"patient_gender"
+			],
+			[
+				"reporter_de",
+				"reporter_department"
+			],
+			[
+				"se",
+				"severity"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_unit.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_table.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_subcategory.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_severity.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/open_detail.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_open.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_program.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_loc.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_injury.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_manager.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_high_severity.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_location.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_flag.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_area.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_code.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_day.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_type.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_md.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_category.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_risk.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_builder_period.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_admin.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/setup_program.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/setup_loc.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/datatable_standard.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_builder_followup.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_builder_category.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/datatable_standard_buttons.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_category.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_example_notes.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_login.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_landing.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_period.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_home.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_period_restore 12.03.24.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/auth.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_management.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/search_occur.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/datatable_plan_mgr.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/includes/facility_setup.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/datatable_open_mgr.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_mtd.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/datatable_standard_mgr.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/eoccur/kp_backup_tables.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/eoccur/kp_backup_occurrence.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/occur/includes/occur_functions.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/eoccur/review_flag.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/eoccur/kp_occur_severity.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/kpr-occur files/backup_tables.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/occur/backup_occurrence.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/eoccur/kp_backup_users.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/kpr-occur files/backup_users.php",
+		"/Users/christyamy/Dropbox/HTDOCS FOLDERS/kpr-occur files/backup_occurrence.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/action_plan_review.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/includes/occur_header.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_builder_month.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/includes/occur_sidebar.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_builder_followup_recover.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/mgr_followup_detail.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/mtd_detail.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/bar_detail_status.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_status.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/open_reports_detail.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_mgr_status.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/datatable_manager.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/drill_month.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_leadership.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/includes/occur_config.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/includes/occur_navbar.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/occur_config_godaddy.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_landing_test.php",
+		"/Users/christyamy/Desktop/bean.sql",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/add_occur.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/includes/occur_config_godaddy.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/phpinfo.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/index.html",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/update_occur.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/update_risk.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_values.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/reports_landing.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/mgr_review.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/rm_review.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/includes/occur_filter_data.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/export_to_csv.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/bar_details.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_form_values.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/submitted_detail.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/severity_detail.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/detail_month.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/bar_detail_category.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/pdf_report.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/export_to_csv.php ",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/includes/occur_header_datatables.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/template_column.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/template_column_days.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/template_bar_js_buttons.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/detail_category.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/TEST_risk.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/pdf_report_detail.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/pdf_rm.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/pdf_mgr.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/DELETE LATER occur_values_10_4_24.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/pdf_buttons_only_grey.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/manage_occur.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/report_builder.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/add_safety.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_risk-640am.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/dashboard_risk_comments.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/update_users.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/template_blank_page",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_login_script.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/user_values.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/login_script.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/occur_blank.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/edit_users.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/blank_template.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/concur_login_script.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/add_user.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/add_other.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/users.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/eOccur 2024/HTML/site/pdf_user.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/Samply_v2.0.0/HTML/site/occur_values.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/Samply_v2.0.0/HTML/site/occur_pdf.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/Samply_v2.0.0/HTML/site/ui-components.html",
+		"/Applications/MAMP/htdocs/eOccur 2023/Samply_v2.0.0/HTML/site/drill_unit.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/Samply_v2.0.0/HTML/site/dashboard_risk.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/Samply_v2.0.0/HTML/site/search_occur.php",
+		"/Applications/MAMP/htdocs/eOccur 2023/Samply_v2.0.0/HTML/site/bar_detail_category.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "open_detail.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 381.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

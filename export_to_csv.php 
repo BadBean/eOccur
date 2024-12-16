@@ -1,0 +1,55 @@
+
+<?php
+
+
+// Set headers to indicate the file will be a CSV and trigger download
+header('Content-Type: text/csv');
+header('Content-Disposition: attachment;filename="trend_data_export.csv"');
+
+// Open output stream for writing CSV data
+$output = fopen('php://output', 'w');
+
+// Generate a list of the last 12 months in 'Y-m' format
+$months = [];
+for ($i = 0; $i < 12; $i++) {
+    $months[] = date('Y-m', strtotime("-$i months"));
+}
+$months = array_reverse($months); // Reverse to display in ascending order
+
+// Function to export data block to CSV
+function export_data_block_csv($label, $data, $months, $output) {
+    // Write the block header (like "Location", "Program", "Area")
+    fputcsv($output, [$label]);
+
+    // Write the month headers
+    $headers = array_merge(['Category'], $months);
+    fputcsv($output, $headers);
+
+    // Write the data rows
+    foreach ($data as $group_name => $counts_by_month) {
+        $row = [$group_name];
+        foreach ($months as $month) {
+            $row[] = isset($counts_by_month[$month]) ? $counts_by_month[$month] : 0;
+        }
+        fputcsv($output, $row);
+    }
+
+    // Add a blank line for spacing between different data blocks
+    fputcsv($output, []);
+}
+
+// Your existing SQL queries and data fetching logic for Location, Program, and Area
+// Example for Location
+$location_data = [];  // Populate with your SQL query result
+$program_data = [];   // Populate with your SQL query result
+$area_data = [];      // Populate with your SQL query result
+
+// Export each data block to CSV
+export_data_block_csv("Location", $location_data, $months, $output);
+export_data_block_csv("Program", $program_data, $months, $output);
+export_data_block_csv("Area", $area_data, $months, $output);
+
+// Close output stream
+fclose($output);
+exit;
+?>
